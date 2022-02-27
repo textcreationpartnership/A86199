@@ -1,0 +1,191 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The backslider bewailed, the careless warned: and the faithful encouraged. With true desires, and living breathings for the preservation of the whole Israel of God. / Written by P. Hendrick... ; translated into English by W.C.</title>
+            <author>Hendricks, Pieter.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1665</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86199</idno>
+            <idno type="STC">Wing H1448</idno>
+            <idno type="STC">ESTC R229321</idno>
+            <idno type="EEBO-CITATION">45789338</idno>
+            <idno type="OCLC">ocm 45789338</idno>
+            <idno type="VID">172649</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86199)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172649)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2643:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The backslider bewailed, the careless warned: and the faithful encouraged. With true desires, and living breathings for the preservation of the whole Israel of God. / Written by P. Hendrick... ; translated into English by W.C.</title>
+                  <author>Hendricks, Pieter.</author>
+                  <author>Caton, William, 1636-1665.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year 1665.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Pastoral letters and charges --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172649:1" rendition="simple:additions"/>
+            <p>THE BACKSLIDER BEWAILED, THE Careleſs Warned: AND THE FAITHFUL ENCOURAGED. WITH True deſires, and living breathings for the Preſervation of the whole Iſrael of God.</p>
+            <p>Written by <hi>P. Hendrick,</hi> who is a ſtranger in <hi>England,</hi> but a fellow Citizen of the new <hi>Jeruſalem,</hi> and a member of the true Church of which Chriſt is the Head.</p>
+            <p>
+               <hi>Tranſlated into</hi> Engliſh <hi>by</hi> W. C.</p>
+            <q>
+               <p>Wherefore let him that thinketh he ſtandeth, take heed leaſt he fall.</p>
+               <bibl>
+                  <hi>1 Cor. 10.12.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>Of a truth I perceive God is no reſpecter of perſons, but in every Nation he that fear<g ref="char:EOLhyphen"/>eth him, and worketh righteouſneſs is accepted with him.</p>
+               <bibl>
+                  <hi>Act. 10.34, 35.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>There is neither Jew nor Greek, there is neither bond nor free, there is neither male nor female, for ye are all one in Chriſt Jeſus.</p>
+               <bibl>
+                  <hi>Gal. 3.38.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>Where there is neither Greek nor Jew, circumciſion nor uncircumciſion, Barbarian, Scythian, bond nor free, but Chriſt all, and in all.</p>
+               <bibl>
+                  <hi>Col. 3.11.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>For by one ſpirit are we all baptized into one body, whether we be Jews or Gentiles, whether we be bond or free and have all been made to drink into one ſpirit.</p>
+               <bibl>1 <hi>Cor. 12.13.</hi>
+               </bibl>
+            </q>
+            <p>Printed in the Year 1665.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:172649:2"/>
+            <pb n="3" facs="tcp:172649:2" rendition="simple:additions"/>
+            <p>MY near, and cordially beloved friends, Although for the preſent I have no new thing, nor any thing elſe to declare unto you, then what you have heard from the beginning, from our dear brethren, the faithful ſervants of the Lord, nevertheleſs I cannot omit to write theſe few lines unto you, which may ſerve for a token of our peculiar fellowſhip, and feeling one of another, in that whereby we are ſo often made ſenſible one of another. Oh! bleſſed be the Lord, who through his unſpeakable love and infinite mercy, hath made us ſo often ſenſible of that from which the world is alienated, and of which it is ignorant, (to wit) the revelation of his holy eternal ſpirit, and divine power in us, through which we could have no peace day nor night, while we walked in the dayes of our ignorance, alienated from him, in the time of our nakedneſſe and miſery, but he often revived his own ſpirit, as a living witneſſe in our conſcience, to the repro<g ref="char:EOLhyphen"/>ving, convincing, and judging of us, for our known, and ſome then unknown corruption of our hearts; beſides, often did he with friendly exhortation, beget ſuch good, ſtrong, and preti<g ref="char:EOLhyphen"/>ous deſires after himſelf, and after the redemption from the gar<g ref="char:EOLhyphen"/>ment of ſin, the old garment of the fleſh; and not alone ſo, but often hath he powerfully drawn us, yea, and in a manner con<g ref="char:EOLhyphen"/>ſtrained to subjection, obedience, and fulfilling of his will and commands; and this hath he done of himſelf, not onely when we have found no power in our ſelves, nor of our ſelves, but alſo when our hearts have in a manner conſented to the evil, and our minds in ſome meaſure captivated by the enemy, yea, he himſelf in ſuch a time, I ſay, hath kept us from the evil, when we our ſelves, nor no man elſe could not preſerve us. And in this manner hath he thus very meekly handled with us, when we daily reſiſted his ſpirit through diſobedience, and when, and that almoſt perpetually, works were brought forth which grieved his ſpirit, nevertheleſſe through his unſpeakable mer<g ref="char:EOLhyphen"/>cy hath he as it were looked over them things, and hath reached over them to his own ſeed, and hath ſought to raiſe and revive that, and hath tenderly nurtured and che<g ref="char:EOLhyphen"/>riſhed it, as a mother nurtures her child, or as a hen her chickens.</p>
+            <pb n="4" facs="tcp:172649:3" rendition="simple:additions"/>
+            <p>And now oh his mercy! that the ſhould even chuſe us as the firſt fruits, from among ſo many thouſands, yea ten thouſands, which are yet walking in the enmity, and alienated from him that gives them breath and life, and who hath born with them until this very day, againſt which they have heaped up a treaſure of wrath through their diſobedience and obſtinacy, in which condition they are often cut off, and ſo reward<g ref="char:EOLhyphen"/>ed according to their work. And if the Lord had dealt ſo with us, how could we have accuſed him? nay in the depth of our miſery muſt we have juſtified his Judgments. But oh! how con<g ref="char:EOLhyphen"/>trarily yea how fatherly, how gently, and how graciouſly hath he dealt with us? what tongue with words can declare the ſame? oh the depth of his mercy, and unſpeakable goodneſſe! yea, the conſideration of the ſame doth ſo overcome the hearts of his children, that often times they cannot expreſſe that which they ſee and feel that the Lord hath done for them, and now through the ſame love and free grace hath he cal<g ref="char:EOLhyphen"/>led us out of the world, and ſeparated us from the ſame through his power, which in a great meaſure hath redeem<g ref="char:EOLhyphen"/>ed us from the ſame in many reſpects, both inwardly and out<g ref="char:EOLhyphen"/>wardly, and having ſhewed and opened unto us a place of holineſſe, in which, as we abide, we ſhall be kept unſportted from the world. And all, yea all this, hath the Lord done for our good, that he might have cauſe to manifeſt his love the more unto us, and to make us partakers of his heavenly ver<g ref="char:EOLhyphen"/>tues, yea, of his fulneſſe, of his love, peace, joy, conſolation, and gladneſſe in his holy ſpirit, of his long ſuffering loving kindneſſe, forbearance and mercy, yea in ſhort to make us parta<g ref="char:EOLhyphen"/>kers of his own nature.</p>
+            <p>And many who have taken to heart this acceptable day of friendly viſitation, and time of great mercy, and have eſteemed the day of grace more precious than all that is in the world, yea, than their own life, and who alſo have continued ſtedfaſt in the time of tryal, for ſo certainly as the Lord hath ordained a gracious and merciful day of viſitation, ſo aſſuredly hath he prepared a time of trial; and I ſay, theſe that have continued ſtedfaſt in the ſame, and through the ſame have been confirmed in the Lord, oh! how well is it with them, yea, how well is it with ſuch? but on the contrary, thoſe who have not regarded
+<pb n="5" facs="tcp:172649:3" rendition="simple:additions"/>the day of viſitation, which was for their good, but have de<g ref="char:EOLhyphen"/>ſpiſed the ſame, and careleſly have let it paſſe by, not ſufficient<g ref="char:EOLhyphen"/>ly laying to heart their eternal peace, nor conſidering how ten<g ref="char:EOLhyphen"/>derly the Lord hath dealt with them and born with them, and how fatherly he hath cared for them; yea, if it had been poſſible, and that they had been worthy, he would have con<g ref="char:EOLhyphen"/>ſtrained them to have entred into his reſt: but alas! they looking at the viſibles, and not giving up their old and evil ac<g ref="char:EOLhyphen"/>cuſtomed life to the Judgment which was ſo near unto them, and ruling in them, ſhunning the Croſs, and following the vain imaginations of their hearts, and the luſts of the world, and ſo have let the day of their viſitation, which was out of love un<g ref="char:EOLhyphen"/>to them, paſſe over their heads. Oh! in what a miſerable con<g ref="char:EOLhyphen"/>dition have they remained, and what a precious thing have they neglected? but yet a greater miſery is to be obſerved, which is come over ſome ſuch which have not abſolutely refuſed the day and time of their gracious viſitation, but embraced the ſame with joy, being powerfully convinced of the truth of God in their own conſciences, that all that the Lord wrought in them and for them, was for their good; for whoſe preſervation the Lord even ſought to do what he knew needful to be done, yea, even as for us; whereby they have alſo been conſtrained to for<g ref="char:EOLhyphen"/>ſake much for the truths ſake, and have been ſometimes a good favour to the ſame, and their ſervice was once before the Lord not very unacceptable, ſo long as they remained little before him, and and little in their own eyes, when their hearts were broken and tender, and when they were ſingle before the Lord, and given up to his will, and ſo long as they did not turn their eye back<g ref="char:EOLhyphen"/>ward, but remained diligently waiting in the daily Croſſe, and in the love of the ſame, and when they had put on the ſame as a garment, and as breaſt-plate before their breaſt, and as a girdle upon their loyns, had girded it, in which time of their tenderneſſe and fruitfulneſſe, the Lord found cauſe to manifeſt his large love unto them, and very much open ſome of them, and enlighten the eyes of their underſtandings, and gave them knowledge and wiſdome, and in a great meaſure gifted them with authority and courage, even to the admiration of their enemies, who had ſought to provoke them to reſiſt that truth which they bore teſtimony of, but often had the power over
+<pb n="6" facs="tcp:172649:4" rendition="simple:additions"/>them, yea, to tread upon the imagined wiſdome of the wiſe as upon dung, and to ſing the ſong of triumph over them; theſe and many more remarkable things hath the Lord brought to paſſe concerning them, and often in ſuch a condition hath he made them ſenſible of his grace and mercy, of his kindneſſe and love, of conſolation and refreſhment, yea, in ſhort, of the powers and vertues of the world to come, without end, and of the everlaſting Judgment, ſo that one might ask, what hath not the Lord done for them? or what hath the Lord omitted to do, that he ſhould have done for them? ſo that it hath not in any wiſe been wanting on the Lords part: but alas! now when they had gotten ſome wiſdome, yet nevertheleſſe through the grace of God, in ſuch a time when they were as fools in their own eyes, yea, as ignorant fools, not knowing any thing; and when they were become ſenſible, and partakers of ſeveral good gifts in the time of their tenderneſſe, and when they were little in their own eyes, and when they kept cloſe to the light, and loved the daily Croſs; But oh! not ſtedfaſtly abdiding upon the watch in the light and fear of the Lord, until than the Lord ſhould be pleaſed to become all in all in them, and until that he had totally con<g ref="char:EOLhyphen"/>ſumed him that had the power of death (to wit) Satan, and that they might have learned to have known him and all his devices, ſubtile deceivings, and deceivable appearances; therefore have they been through his cunning ſnares and ſubtilties detained, and as an untimely birth, have not been brought forth unto life; for as Satan is exceeding cunning, and goes continually about ſeeking whom he may devour, even ſo is he an utter enemy to mans peace with the Lord, and ſeeks upon divers manners how he may obſtruct the ſame; yea, even as the Lord is labouring night and day for mans preſervation to judge the evil, and afterwards to ſhew mercy, even ſo is Satan buſie night and day to accompliſh that which he hath determined. And although there was a time wherein he could not eaſily ſeduce them, yet did he not deſpair corcerning them, but took his opportunity, and appeared to them when they had taken up ſome reſt in a more glorious form, and changed his countenance, as if he had been an angel of light, ſeeking to imitate in motion and appearance, that which before had proceeded through the power from the life, yea, even as the Magicians of <hi>Egypt</hi> who through their witchcraft could imitate
+<pb n="7" facs="tcp:172649:4" rendition="simple:additions"/>much of that which was done by the power of the Lord, even ſo this deceivable ſeducer. And on the other hand, even as <hi>Iſrael</hi> through the mighty hand of the Lord was redeemed out of <hi>Egypt,</hi> for whom the Lord had done ſuch wonderful things, nevertheleſs this being but a little over, and they not imprinting all thoſe things which the Lord had done for them in their hearts, then were ima<g ref="char:EOLhyphen"/>ges ſoon made, and Idols ſet up, and then they ſaid, <hi>Behold Iſrael, theſe are thy gods which have brought thee up out of the ladn of</hi> Egypt; and even ſo was it with them before mentioned, when Satan had drawn their minds from the watch in the light, and they being become wiſe in their own eyes, hearkened to the imaginations and inventions of their own hearts, and then did they make unto them<g ref="char:EOLhyphen"/>ſelves Images of the every fineſt gold, ſaying in their hearts to them, theſe are your Gods; but he who is a very jealous God, will not have any god ſerved, honoured, nor worſhipped, beſides himſelf; who in a ſhort time hath manifeſted ſuch unſpeakable grace, mer<g ref="char:EOLhyphen"/>cy, and goodneſs to them, he beheld this their preſent condition with much ſympathizing and heavineſs over them, and ſought with great kindneſs, in much long ſuffering and tenderneſs, to warn them from them, ſometimes powerfully convincing them of his truth in their own conſciences, and oftentimes making them ſenſible of the danger which they are in, in laying their heart and condition clearly open before them, ſeeking then friend<g ref="char:EOLhyphen"/>ly to reprove or to judge that which will not be ſubject to his ſpirit; but alas! the Judgment was become heavy to them, yea too heavy, eſpecially to the perverſe part, and the Croſs was become bitter, and there being yet ſomething remaining ever in them not yet mortified, nor wholly forſaken; and though the ſame could not wholly reign nor have the dominion, while they were tender before the Lord, loved the Croſs, and abode in the light, yet nevertheleſs hath it afterwards encreaſed, and is become ſtrong, until that it finally did ſufficiently get the dominion again.</p>
+            <p>But oh, what hath the Lord born with them? and how graci<g ref="char:EOLhyphen"/>ouſly and mercifully hath he handled with them, and laboured with them for to bring them off from it; yea, how hath he la<g ref="char:EOLhyphen"/>boured with them, and not alone the Lord, but alſo his Children and faithful ſervants, who alſo being conſtrained through love, were very diligent in watching over them, for the beſt, as in the truth it became them, in much watchfulneſſe, tenderneſſe, and
+<pb n="8" facs="tcp:172649:5" rendition="simple:additions"/>wiſdom, but their minds being drawn out through the ſubtilty of the enemy, from the light, life, and feeling of the Unity, and an evil ſharp eye that looked out, being opened in them, then did they ſeek to pervert every thing to the worſt ſence that was done by thoſe who ſimply and uprightly, from their very heart feared the Lord, whether in their dealing with them, or towards them, or otherwiſe. And when the evil and perverſe eye was opened in them, then did prejudice and hard thoughts creep in againſt their Neighbours, which when it was let in, encreaſed as a Canker, and hath done much harm in them, by bereaving them of the feeling they once had of the truth of God, and of them that walked in it; and they thus hardning their necks againſt the Lord and his precious ſervants, nor not willing to remain ſubject to the Spirit of the Lord in themſelves, which had exceed<g ref="char:EOLhyphen"/>ingly ſtriven with them to bow them to ſubjection, nor not be<g ref="char:EOLhyphen"/>ing willing to forſake that which was ſo dear to them, which yet remained in them unmortified, which having again gotten pow<g ref="char:EOLhyphen"/>er and ſtrength, the Lord hath finally ceaſed ſtriving with them, and hath given them up to themſelves, and to their own wills, and hath left them to themſelves; and thus were they at laſt made veſſels of wrath, nowithſtanding the great and unſpeak<g ref="char:EOLhyphen"/>able long-ſuffering of the Lord, that the Lord might manifeſt his power and righteouſneſſe upon them; and ſome of them are made already ſo ſad, dreadful, and lamentable examples, whoſe miſery is unſpeakable, and whoſe recovery is not to be expected. Oh miſerable above all miſery! much better it had been for them that they had never known the truth of God.</p>
+            <p>And my dear unfeignedly beloved friends, ſeeing it hath pleaſed the Lord, after his ſo great and long ſuffering, forbearance and patience, ſo to reveal his righteouſneſs upon ſome, as before mentioned, who have not remained in ſubjection to his Spirit un<g ref="char:EOLhyphen"/>to the end.</p>
+            <p>Oh let this than ſerve as a living example unto us, leſt that any of us at any time ſhould be found in the like unbelief and unfaith<g ref="char:EOLhyphen"/>fulneſs, and that the Lord therefore ſhould uſe the like righteous ſeverity againſt us, which he hath done unto them; for what are we more then they, if our minds ſhould come to be drawn out, and alienated from the grace of God in our ſelves, whereby we have had ſuch a feeling of the Lord, of his truth, and of
+<pb n="9" facs="tcp:172649:5" rendition="simple:additions"/>thoſe that walk in the ſame? I ſay, if that Satan through his ſub<g ref="char:EOLhyphen"/>tilty ſhould come to ſcatter our minds from the feeling thereof in our ſelves, what ſhould we then be better then they? but it would be more like that ſuch miſery and wrath ſhould be ſuffered to come upon us, as is come upon them.</p>
+            <p>And now, ſeeing that it is ſo, that the mind can be ſo eaſily moved and drawn out from that in which the Immutability con<g ref="char:EOLhyphen"/>ſiſteth, through the manifold temptations, ſnares, deceivable ſubtil<g ref="char:EOLhyphen"/>ties, and ſubtile ſeducing of Satan, even as its poſſible the moſt have found by experience in themſelves. Let us therefore keep perpetually in the light in our own particulars, heartily loving, embracing, cleaving unto, and uniting our minds to it; for that ſame that convinced us in the beginning of our ſins and unrigh<g ref="char:EOLhyphen"/>teouſneſs, is the ſame that muſt preſerve us to the end, for in the ſame is lite, mercy, and peace; and through being preſerved ho<g ref="char:EOLhyphen"/>lily in the ſame, we become partakers of the vertues of eternal life, as they are in Chriſt Jeſus; for through the light hath the Lord opened our underſtandings, and in the light have we ſeen and felt the fulneſs of grace, and through the ſame the unſpeak<g ref="char:EOLhyphen"/>able mercy of the Lord is perpetuated, which every morning is renewed to his Children who continually in his fear, and in his light do wait upon him, calling upon him in his light, praying, prayſing, and thanking of him for his unſpeakable love, grace and mercy which he ſo often and abundantly hath manifeſted to them, whereby they are often overcome in themſelves, and conſtrained to humble themſelves before the Lord, in true ten<g ref="char:EOLhyphen"/>derneſs, brokenneſs, ſimplicity, and uprightneſs of their hearts, from the bottom of the ſame, to glorifie his holy Name.</p>
+            <p>Oh, my friends, how doth my ſoul long for all your eſtabliſh<g ref="char:EOLhyphen"/>ment in the truth, according to your faithfulneſſe and upright<g ref="char:EOLhyphen"/>neſſe of heart, and after your ſimplicity, ſingleneſſe and tender<g ref="char:EOLhyphen"/>neſſe before the Lord? that you might be exalted and eſtabliſhed above all that which would ariſe to hinder you in your precious running and holy intent, that you therefore might be found ſtedfaſt and diligent, keeping your watch in the light, that he who goes about <hi>continually as a roaring Lion ſeeking whom he might devoure,</hi> might never have cauſe through any of his ſub<g ref="char:EOLhyphen"/>tilties through deceit, to trap or enſnare any of you, and that before you your ſelves be aware of it, or by bringing one thing
+<pb n="10" facs="tcp:172649:6" rendition="simple:additions"/>or other into your hearts, therewith to trouble and diſturb you, and to ſpend your time, and through ſuch occaſions may ſeek to draw your minds from the light, and from watching in the ſame, even as he hath done with ſome who had neglected the watch in the light, over whom he hath gotten power, they <hi>ha<g ref="char:EOLhyphen"/>ving made ſhipwrack of faith and of a good conſcience,</hi> having ſcat<g ref="char:EOLhyphen"/>tered that which once with diligence they had gathered, and having loſt that which once they were ſenſible of, ſo with <hi>the D<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g turned to his vomit again, and with the Sow that was waſhed, to her wallowing in the mire again,</hi> and that after they were in mea<g ref="char:EOLhyphen"/>ſure waſhed.</p>
+            <p>And though in the beginning of their Apoſtacy and degent<g ref="char:EOLhyphen"/>ration they gave credit unto Satan, who ſought to make them believe, or rather to imagine, that they ſhould be no leſſe then they were before, not then the people of the Lord, but that they ſhould be more perfect, and become better, holier, perfect<g ref="char:EOLhyphen"/>er, ſimpler, uprighter and faithfuller then theſe who ſimply wa'ked in the truth, and more eſtabliſhed in it; but finally, it became manifeſt what Satan was determined to do with them, and the ſame it manifeſt it, when they could hide that no longer which was grown up in their boſomes, when that came to break out which they had for a long time ſecretly hidden.</p>
+            <p>Oh that Satan ſhould ever ſo far prevail over any: and now that the like might not come to paſſe concerning any of us, who are yet ſenſible of the grace of God in our ſelves, and of his everlaſting and unchangeable truth in our own particulars, therefore is my heart ſo often turned to the Lord, and pured forth before him, praying for the ſalvation of <hi>Iſrael,</hi> and for all in <hi>Iſrael</hi> that are of a tender and broken heart, that Satan might not in any wiſe bereave them of their ſimplicity in the light, or of their tender<g ref="char:EOLhyphen"/>neſſe to the truth; yea, becauſe of this, for the truths ſake, is my life often poured forth before the Almighty Father, praying and interceding in much travel, ſweating and waking night and day, that the Lord might be pleaſed through his unexpreſſible grace and fatherly mercy, to obſtruct that which Satan hath purpoſed and determined; for this I may ſay plainly, he hath not yet cea<g ref="char:EOLhyphen"/>ſed, neither hath he yet deſpaired, neither is he who is the accu<g ref="char:EOLhyphen"/>ſer of the brethren, caſt out of all, but <hi>goes yet about, as a devou<g ref="char:EOLhyphen"/>ring Lion, ſeeking whom he may devour.</hi> Oh therefore my dearly
+<pb n="11" facs="tcp:172649:6" rendition="simple:additions"/>beloved and pretious Friends, is it not exceeding needful to keep our hearts perpetually in the light, upon the watch, to the Lord in openneſs and ſimplicity, that nothing but the Lord alone, and his work and truth might have the poſſeſſion in our hearts?</p>
+            <p>And whatſoever Satan ſhould propound, or ſeek to make you believe, thereby to take an occaſion to draw out your minds from the light, and from the grace of God in your ſelves, regard him not, nor look not at his temptations nor enticements, nei<g ref="char:EOLhyphen"/>ther unite your minds unto the ſame, for otherwiſe you might be enſnared before you were aware; but look upon the Lord and his light, which manifeſts his temptations, and joyn you unto the ſame, for therein is the preſervation and ſalvation, and in the ſame is there power enough to preſerve you from the tempta<g ref="char:EOLhyphen"/>tions, that you be not overcome with the ſame, nor with the ſub<g ref="char:EOLhyphen"/>tile ſubtilties of the enemy, much leſs that you ſhould periſh in them.</p>
+            <p>And ſo my Friends, keep cloſe to the Lord in your own con<g ref="char:EOLhyphen"/>ditions, and do not eaſily let in any thoughts againſt any, or concerning any matter, for thereby might you come eaſily to neglect the watch in the light, whereby the enemy might ſeek an occaſion to draw out your minds from the light, and to ali<g ref="char:EOLhyphen"/>enate you from it, and then ſhould he have an opportunity to perfect his work, which he would willingly perfect; and if thoughts ariſe, what ſort ſoever they are, or whatſoever happen, or what things ſoever are brought into your Minds, well, be cir<g ref="char:EOLhyphen"/>cumſpect in all things, and be not too forward in any thing, nei<g ref="char:EOLhyphen"/>ther give too much place too ſuddenly to any thing in the mind, for thereby ſome have ſuffered loſs, but whatſoever appeares or comes up, receive it not too ſuddenly, but bring it to the light of the Lord, that it may be thereby weighed and tried. And if any thing at any time be found in any of you, by the light of the Lord not to be pure, nor to proceed from the life, watch againſt it, and give it no place but judg it out with the ground from whence it proceeds, and tread it under your feet; for if you ſhould be ſlack in wholly forſaking of it, in judging of it in the ground, and not preſently to reject it, after that it is through the grace of God opened and ſhewed to you not to be of him, nor of his Spirit, but to be a deceivable temptation of the enemy, and yet never the leſs, I ſay, through negligence and careleſneſs to
+<pb n="12" facs="tcp:172649:7" rendition="simple:additions"/>ſuffer it to harbour in you, oh this is very dangerous, which ſome with ſorrow to their great prejudice have found by experience, when it had gotten the dominion over them, and had occaſioned a deſolation be<g ref="char:EOLhyphen"/>fore they were aware.</p>
+            <p>And ſeeing the power of my love is ſo ſtrong, through which I am often made with tears to intercede unto the Lord for all your preſer<g ref="char:EOLhyphen"/>vation, therefore is my heart the more open to you; neither can I con<g ref="char:EOLhyphen"/>ceal from you the manifold cunning devices, and ſubtil deceits of Sa<g ref="char:EOLhyphen"/>tan, through which he hath ſo ſadly overcome ſome, and alſo what he is determined yet to do, if that he can find any from the watch in the light, and from the grace of God in themſelves; for indeed this I muſt once more ſay, neither can I well omit it, to wit, that Satan goes yet a<g ref="char:EOLhyphen"/>bout ſeeking wherein, whereby and who he may deceive. And the Lord knows how it ſhould tend to my comfort, eaſe and refreſhment in him, if that it were poſſible that ye all might be ſpared for to inherit life everlaſting; yea truly I do not know any one thing that would be more acceptable to me, or that could refreſh me more in the Lord, then your ſtedfaſtneſs, faithfulneſs and eſtabliſh in the truth; and therefore I ſay is my heart ſo open to you, and tender over you; neither can I conceal from you what Satan hath determined, hoping that peradven<g ref="char:EOLhyphen"/>ture it may tend to your peace.</p>
+            <p>And now having declared that which for a long time hath been be<g ref="char:EOLhyphen"/>fore me, and hope to return to my reſting place, not knowing but that I have done that which was required of me. So the Almighty Father and preſerver of life keep you all, that you may be ſtedfaſtly eſtabliſhed for to ſtand unmoveably in his truth to the end, to the praiſe of him that hath called you.</p>
+            <closer>
+               <signed>
+                  <hi>Tranſlated in love to the Brethren whom in true love I ſalute, and in the ſame do reſt, their entire Brother,</hi> W. C.</signed>
+               <signed>
+                  <hi>Your dear Friend, and tender Brother in the fellowſhip of the Goſpel of life,</hi> P. Hendricke.</signed>
+               <dateline>Amſterdam, <date>
+                     <hi>the 6th of the 11th Moneth.</hi> 1664.</date>
+               </dateline>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
